@@ -2,7 +2,7 @@
 
 This repository contains an **Entity Relationship (ER) Diagram** for a social media platform that models users, content, interactions, communities, events, and advertising.
 
-## 🗂 Key Entities
+##  Key Entities
 
 * **User** – Platform users and profile data
 * **Posts** – User-generated content
